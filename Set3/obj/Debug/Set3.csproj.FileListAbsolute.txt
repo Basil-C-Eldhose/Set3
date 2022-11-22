@@ -1,0 +1,8 @@
+C:\Users\Basil\source\repos\Set3\Set3\bin\Debug\Set3.exe.config
+C:\Users\Basil\source\repos\Set3\Set3\bin\Debug\Set3.exe
+C:\Users\Basil\source\repos\Set3\Set3\bin\Debug\Set3.pdb
+C:\Users\Basil\source\repos\Set3\Set3\obj\Debug\Set3.csproj.AssemblyReference.cache
+C:\Users\Basil\source\repos\Set3\Set3\obj\Debug\Set3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Basil\source\repos\Set3\Set3\obj\Debug\Set3.csproj.CoreCompileInputs.cache
+C:\Users\Basil\source\repos\Set3\Set3\obj\Debug\Set3.exe
+C:\Users\Basil\source\repos\Set3\Set3\obj\Debug\Set3.pdb
